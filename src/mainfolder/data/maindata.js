@@ -2,7 +2,7 @@ export const maindat =[
     {
         "id": "1",
         "hname": "Aster Ramesh Hospitals",
-        "himg" : "../src/assets/hospitals images ongole/Aster Ramesh Ongole 1500 x 1050 (1).jpg",
+        "himg" : "/src/assets/hospitals images ongole/Aster Ramesh Ongole 1500 x 1050 (1).jpg",
         "dname1":"Dr. Ramesh",
         "dname": [ "Dr. Ramesh", "Dr. Suresh", "Dr. Anusha","Dr. Priya","Dr.Surya","Dr. Abhishek"],
         "address": "NH-5 Near Nellore Bus Stand,Ongole,523001",
